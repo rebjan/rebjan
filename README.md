@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rebjan
 - 👀 I’m interested in Infrastructure as code (IaC), K8S, DevOps
-- 🌱 I’m currently learning terraform, k8s
-- 💞️ I’m looking to collaborate on k8s projects and stateful scalable apps
+- 💞️ I’m looking to collaborate on k8s projects
 - 📫 How to reach me: berjan@duck.com
 
 <!---
